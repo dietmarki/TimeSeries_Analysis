@@ -11,6 +11,10 @@ working on different ways to analyze Time Series
 3. Stock_Market
 
     --> StockMarket_Tesla.ipynb, Tesla.csv
+
+4. Metro_AirCompressor
+
+    --> Metro_AirCompressor.ipynb, MetroPT3_AirCompressor.csv
    
 
 ...to be continued
